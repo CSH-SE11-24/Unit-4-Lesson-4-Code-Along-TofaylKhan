@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #ffffff;
+}
+
+#red {
+  color: red;
+}
+
+#orange {
+  color: orange;
+}
+
+#yellow {
+  color: yellow;
+}
+
+#Green {
+  color: green;
+}
+
+#blue {
+  color: blue;
+}
+
+#indigo {
+  color: indigo;
+}
+
+
+#violet {
+  color: violet;
+}
+
+#gru {
+width: 80vw;
+}
+
+.two1{
+  color: red;
+}
+
+
+#img1 {
+  width: 80%;
+}
+
+  .img2 {
+    width: 30%;
+  }
